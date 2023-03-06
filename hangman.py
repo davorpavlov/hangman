@@ -5,7 +5,6 @@ def clear():
     os.system('cls')
 
 def hangman_animation():
-    # Here you can define the animation frames
     frames = [
         r"""
               +---+
